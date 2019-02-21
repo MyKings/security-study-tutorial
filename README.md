@@ -1,4 +1,4 @@
-# safety-study-tutorial
+# security-study-tutorial
 Summary of online learning materials
 
 ## Awesome
