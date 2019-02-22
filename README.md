@@ -42,15 +42,13 @@ Summary of online learning materials
 * https://github.com/netbiosX/Checklists
 * https://github.com/brunofacca/zen-rails-security-checklist
 * https://github.com/privacyradius/gdpr-checklist
-* https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList
+
 
 ## Developer
 
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
 * https://github.com/ExpLife0011/awesome-windows-kernel-security-development
 * https://github.com/jaywcjlove/awesome-mac
-* [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
-* [SlowMist Vulnerability Research Advisories ](https://github.com/slowmist/papers)
 * [分享在建设安全管理体系、ISO27001、等级保护、安全评审过程中的点点滴滴](https://github.com/ym2011/SecurityManagement)
 
 
@@ -80,6 +78,14 @@ Summary of online learning materials
 * [Proof-of-concept codes created as part of security research done by Google Security Team.](https://github.com/google/security-research-pocs)
 * [Security Research from the Microsoft Security Response Center (MSRC)](https://github.com/Microsoft/MSRC-Security-Research)
 * [ Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.](https://github.com/trimstray/technical-whitepapers)
+* https://github.com/Micropoor/Micro8
+* [RedTeam资料收集整理](https://github.com/jeansgit/RedTeam)
+* [Great security list for fun and profit](https://github.com/zbetcheckin/Security_list)
+* [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map)
+* https://github.com/ztgrace/red_team_telemetry
+* [Penetration tests cases, resources and guidelines.](https://github.com/Voorivex/pentest-guide)
+* [Attack and defend active directory using modern post exploitation adversary tradecraft activity](https://github.com/infosecn1nja/AD-Attack-Defense)
+* https://github.com/tiancode/learn-hacking
 
 ## Malware
 
@@ -89,6 +95,7 @@ Summary of online learning materials
 * [对 Lazarus 下载者的简要分析](https://medium.com/emptyregisters/lazarus-downloader-brief-analy-17875f342d96)
 * [Various public documents, whitepapers and articles about APT campaigns](https://github.com/kbandla/APTnotes)
 * [Personal compilation of APT malware from whitepaper releases, documents and own research](https://github.com/sapphirex00/Threat-Hunting)
+* [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-malware)
 
 ## Fuzzing
 
@@ -97,7 +104,22 @@ Summary of online learning materials
 * [OSS-Fuzz - continuous fuzzing of open source software](https://github.com/google/oss-fuzz)
 * [Scalable fuzzing infrastructure.](https://github.com/google/clusterfuzz)
 * [DOM fuzzer](https://github.com/googleprojectzero/domato)
+* https://github.com/wmliang/pe-afl
+* [Web application fuzzer](https://github.com/xmendez/wfuzz)
+* https://github.com/fuzzdb-project/fuzzdb
+* [NSA finest tool](https://github.com/fuzzbunch/fuzzbunch)
+* https://github.com/bin2415/fuzzing_paper
+* [Potentially dangerous files](https://github.com/Bo0oM/fuzz.txt)
+* [Fuzzing Browsers](https://github.com/RootUp/BFuzz)
 
+## Browser
+ 
+ * [An updated collection of resources targeting browser-exploitation.](https://github.com/m1ghtym0/browser-pwn)
+ * [A collection of JavaScript engine CVEs with PoCs](https://github.com/tunz/js-vuln-db)
+ 
+## Deep Net
+
+* [All You Need to Know About Deep Learning - A kick-starter](https://github.com/machinelearningmindset/deep-learning-ocean)
 
 ## Operating System
 
@@ -106,6 +128,15 @@ Summary of online learning materials
 * https://www.itsecdb.com/
 * [Vulnerability scanner for Linux/FreeBSD, agentless, written in Go](https://github.com/future-architect/vuls)
 * [some learning notes about Linux Security](https://github.com/JnuSimba/LinuxSecNotes)
+* [API samples for the Universal Windows Platform.](https://github.com/Microsoft/Windows-universal-samples)
+
+## Blockchain
+
+* [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
+* [SlowMist Vulnerability Research Advisories ](https://github.com/slowmist/papers)
+* https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList
+* https://github.com/bcosorg/whitepaper/blob/master/BCOS_Whitepaper.md
+* https://github.com/1522402210/BlockChain-Security-List
 
 ## Tools
 
@@ -120,14 +151,30 @@ Summary of online learning materials
 * https://github.com/govolution/betterdefaultpasslist/blob/master/ssh.txt
 * https://hackertarget.com/ssh-examples-tunnels/
 
+### DNS
+
+* [In-depth DNS Enumeration and Network Mapping](https://github.com/caffix/amass)
+
 ### Exploiter
 
 * [Automated Mass Exploiter](https://github.com/NullArray/AutoSploit)
 * [Automate creating resilient, disposable, secure and agile infrastructure for Red Teams.](https://github.com/Coalfire-Research/Red-Baron)
+* [A bunch of links related to VMware escape exploits](https://github.com/xairy/vmware-exploitation)
+* [This contains common local exploits and enumeration scripts](https://github.com/AusJock/Privilege-Escalation)
+* [Windows Exploits](https://github.com/WindowsExploits/Exploits)
+* [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
+* [MS17-010](https://github.com/worawit/MS17-010)
+* https://github.com/akayn/PostExploits
+* https://github.com/smgorelik/Windows-RCE-exploits
+* [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course)
+* https://github.com/Semmle/SecurityExploits
+* https://github.com/lukechilds/reverse-shell
 
 ### OSINT
 
 * [People tracker on the Internet: OSINT analysis and research tool by Jose Pino](https://github.com/jofpin/trape)
+* [Email OSINT and password breach hunting.](https://github.com/khast3x/h8mail)
+
 
 ### Git
 
@@ -156,6 +203,10 @@ Summary of online learning materials
 
 * https://github.com/SpiderLabs/Responder
 * https://github.com/Tencent/HaboMalHunter
+* https://github.com/sapphirex00/Threat-Hunting
+* https://github.com/kbandla/APTnotes
+* [Modlishka. Reverse Proxy. Phishing NG.](https://github.com/drk1wi/Modlishka)
+* [A toolset to make a system look as if it was the victim of an APT attack](https://github.com/NextronSystems/APTSimulator)
 
 ### Scanner
 
@@ -171,6 +222,20 @@ Summary of online learning materials
 * [OpenVAS remote network security scanner](https://github.com/greenbone/openvas-scanner)
 * [Perun是一款主要适用于乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架](https://github.com/WyAtu/Perun)
 * [Use ExpiredDomains.net and BlueCoat to find useful domains for red team.](https://github.com/t94j0/AIRMASTER)
+* [分布式web漏洞扫描](https://github.com/TideSec/WDScanner)
+* [Golang编写的开源POC检测框架](https://github.com/opensec-cn/kunpeng)
+* [ Weak password blasting of weak ports and integrated detection tools for unauthorized access.](https://github.com/aedoo/Allscanner)
+* [DeepSearch - Advanced Web Dir Scanner](https://github.com/m4ll0k/DeepSearch)
+* [Nmap Web Dashboard and Reporting](https://github.com/Rev3rseSecurity/WebMap)
+
+### Phisher
+
+* https://github.com/wifiphisher/wifiphisher
+* [Swordphish Phishing Awareness Tool](https://github.com/certsocietegenerale/swordphish-awareness)
+
+### RAT
+
+* [Android Remote Administration Tool](https://github.com/AhMyth/AhMyth-Android-RAT)
 
 ### Other
 
@@ -183,6 +248,9 @@ Summary of online learning materials
 * [Golang安全资源合集](https://github.com/re4lity/Hacking-With-Golang)
 * [PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform ](https://github.com/Patrowl/PatrowlManager)
 * https://github.com/luyg24/IT_security
+* [Find open databases with Shodan](https://github.com/woj-ciech/LeakLooker)
+* https://github.com/Truneski/external_c2_framework
+
 
 ## Vulnerability
 
@@ -223,3 +291,5 @@ Summary of online learning materials
 * [A list of interesting payloads, tips and tricks for bug bounty hunters.](https://github.com/EdOverflow/bugbounty-cheatsheet)
 * [some learning notes about Web/Cloud/Docker Security、 Penetration Test、 Security Building](https://github.com/JnuSimba/MiscSecNotes)
 * [Command Injection Payload List](https://github.com/ismailtasdelen/command-injection-payload-list)
+* [NSE script based on Vulners.com API](https://github.com/vulnersCom/nmap-vulners)
+* [Named vulnerabilities and their practical impact](https://github.com/hannob/vulns)
