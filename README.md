@@ -9,13 +9,10 @@ Summary of online learning materials
 * https://github.com/bayandin/awesome-awesomeness
 * https://github.com/enaqx/awesome-pentest
 * https://github.com/carpedm20/awesome-hacking
-* https://github.com/rshipp/awesome-malware-analysis
 * https://github.com/sbilly/awesome-security
 * https://github.com/ashishb/android-security-awesome
 * https://github.com/paragonie/awesome-appsec
-* https://github.com/paralax/awesome-honeypots
 * https://github.com/PaulSec/awesome-sec-talks
-* https://github.com/jivoi/awesome-osint
 * https://github.com/meirwah/awesome-incident-response
 * https://github.com/secfigo/Awesome-Fuzzing
 * https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
@@ -50,6 +47,10 @@ Summary of online learning materials
 * https://github.com/ExpLife0011/awesome-windows-kernel-security-development
 * https://github.com/jaywcjlove/awesome-mac
 * [分享在建设安全管理体系、ISO27001、等级保护、安全评审过程中的点点滴滴](https://github.com/ym2011/SecurityManagement)
+* https://github.com/riusksk/secbook
+* https://github.com/bayandin/awesome-awesomeness
+* [常用服务器、数据库、中间件安全配置基线](https://github.com/re4lity/Benchmarks)
+* https://github.com/EbookFoundation/free-programming-books
 
 
 ## Pentest
@@ -81,11 +82,18 @@ Summary of online learning materials
 * https://github.com/Micropoor/Micro8
 * [RedTeam资料收集整理](https://github.com/jeansgit/RedTeam)
 * [Great security list for fun and profit](https://github.com/zbetcheckin/Security_list)
-* [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map)
 * https://github.com/ztgrace/red_team_telemetry
 * [Penetration tests cases, resources and guidelines.](https://github.com/Voorivex/pentest-guide)
 * [Attack and defend active directory using modern post exploitation adversary tradecraft activity](https://github.com/infosecn1nja/AD-Attack-Defense)
 * https://github.com/tiancode/learn-hacking
+* https://github.com/rewardone/OSCPRepo
+* https://github.com/redcanaryco/atomic-red-team
+* [HTA encryption tool for RedTeams](https://github.com/nccgroup/demiguise)
+* https://github.com/infosecn1nja/Red-Teaming-Toolkit
+* [Red Team Field Manual](https://github.com/Agahlot/RTFM)
+* [The Shadow Brokers "Lost In Translation" leak](https://github.com/misterch0c/shadowbroker)
+* [Decrypted content of eqgrp-auction-file.tar.xz](https://github.com/x0rz/EQGRP)
+* https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
 
 ## Malware
 
@@ -96,6 +104,8 @@ Summary of online learning materials
 * [Various public documents, whitepapers and articles about APT campaigns](https://github.com/kbandla/APTnotes)
 * [Personal compilation of APT malware from whitepaper releases, documents and own research](https://github.com/sapphirex00/Threat-Hunting)
 * [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-malware)
+* https://github.com/rootm0s/Injectors
+* https://github.com/rshipp/awesome-malware-analysis
 
 ## Fuzzing
 
@@ -120,15 +130,25 @@ Summary of online learning materials
 ## Deep Net
 
 * [All You Need to Know About Deep Learning - A kick-starter](https://github.com/machinelearningmindset/deep-learning-ocean)
+* [OnionScan is a free and open source tool for investigating the Dark Web.]https://github.com/s-rah/onionscan
 
 ## Operating System
 
+* https://github.com/drduh/macOS-Security-and-Privacy-Guide
 * [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 * [A practical guide to advanced Linux security in production environments](https://github.com/trimstray/the-practical-linux-hardening-guide)
 * https://www.itsecdb.com/
 * [Vulnerability scanner for Linux/FreeBSD, agentless, written in Go](https://github.com/future-architect/vuls)
 * [some learning notes about Linux Security](https://github.com/JnuSimba/LinuxSecNotes)
 * [API samples for the Universal Windows Platform.](https://github.com/Microsoft/Windows-universal-samples)
+* [Set of tools to analyze and attack Windows sandboxes.](https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools)
+* https://github.com/trimstray/test-your-sysadmin-skills
+* https://github.com/wstart/DB_BaseLine
+* [Windows memory hacking library](https://github.com/DarthTon/Blackbone)
+* https://github.com/j00ru/windows-syscalls
+* https://github.com/zodiacon/WindowsInternals
+* https://github.com/GDSSecurity/Windows-Exploit-Suggester
+* https://github.com/EasyHook/EasyHook
 
 ## Blockchain
 
@@ -137,6 +157,8 @@ Summary of online learning materials
 * https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList
 * https://github.com/bcosorg/whitepaper/blob/master/BCOS_Whitepaper.md
 * https://github.com/1522402210/BlockChain-Security-List
+* https://github.com/liuchengxu/blockchain-tutorial
+* https://github.com/dvf/blockchain
 
 ## Tools
 
@@ -154,9 +176,13 @@ Summary of online learning materials
 ### DNS
 
 * [In-depth DNS Enumeration and Network Mapping](https://github.com/caffix/amass)
+* [A DNS rebinding attack framework.](https://github.com/nccgroup/singularity)
+* [Knock Subdomain Scan](https://github.com/guelfoweb/knock)
+* https://github.com/iphelix/dnschef
 
 ### Exploiter
 
+* https://github.com/offensive-security/exploitdb
 * [Automated Mass Exploiter](https://github.com/NullArray/AutoSploit)
 * [Automate creating resilient, disposable, secure and agile infrastructure for Red Teams.](https://github.com/Coalfire-Research/Red-Baron)
 * [A bunch of links related to VMware escape exploits](https://github.com/xairy/vmware-exploitation)
@@ -169,21 +195,36 @@ Summary of online learning materials
 * [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course)
 * https://github.com/Semmle/SecurityExploits
 * https://github.com/lukechilds/reverse-shell
+* https://github.com/klsfct/getshell
+* https://github.com/rootm0s/WinPwnage
+* https://github.com/51x/WHP
+* https://github.com/SecWiki/linux-kernel-exploits
+* https://github.com/hardenedlinux/linux-exploit-development-tutorial
+* https://github.com/Coalfire-Research/java-deserialization-exploits
 
 ### OSINT
 
 * [People tracker on the Internet: OSINT analysis and research tool by Jose Pino](https://github.com/jofpin/trape)
 * [Email OSINT and password breach hunting.](https://github.com/khast3x/h8mail)
+* [Maintained collection of OSINT related resources. (All Free & Actionable)](https://github.com/Ph055a/OSINT-Collection)
+* [Incredibly fast crawler designed for OSINT.](https://github.com/s0md3v/Photon)
+* [OSINT Framework](https://github.com/lockfale/OSINT-Framework)
+* https://github.com/Moham3dRiahi/Th3inspector
+* https://github.com/jivoi/awesome-osint
 
 
 ### Git
 
 * [Reconnaissance tool for GitHub organizations](https://github.com/michenriksen/gitrob)
 * [GitHub Sensitive Information Leakage Monitor Spider](https://github.com/0xbug/Hawkeye)
+* [Searches through git repositories for high entropy strings and secrets, digging deep into commit history](https://github.com/dxa4481/truffleHog)
+* [GitHub Sensitive Information Leakage](https://github.com/FeeiCN/GSIL)
 
 ### Burpsuite
 
  * https://github.com/1N3/IntruderPayloads
+ * https://github.com/vulnersCom/burp-vulners-scanner
+ 
 
 ### IoT
 
@@ -194,19 +235,43 @@ Summary of online learning materials
 * https://github.com/w3h/icsmaster
 * https://github.com/xl7dev/ICSecurity
 * https://github.com/SecarmaLabs/IoTChecklist
+* https://github.com/mrmtwoj/0day-mikrotik
+* https://github.com/jiayy/android_vuln_poc-exp
+* https://github.com/advanced-threat-research/firmware-security-training
+* [Exploitation Framework for Embedded Devices](https://github.com/threat9/routersploit)
+* [Printer Exploitation Toolkit ](https://github.com/RUB-NDS/PRET)
 
 ### Traffic
 
 * [Malicious traffic detection system](https://github.com/stamparm/maltrail)
 
-### Honey && Hunter
+### Honey 
+
+* https://github.com/paralax/awesome-honeypots
+* https://github.com/ppacher/honeyssh
+* [Kippo - SSH Honeypot](https://github.com/desaster/kippo)
+* https://github.com/ysrc/yulong-hids
+
+### Hunter
 
 * https://github.com/SpiderLabs/Responder
 * https://github.com/Tencent/HaboMalHunter
 * https://github.com/sapphirex00/Threat-Hunting
 * https://github.com/kbandla/APTnotes
+* https://github.com/aptnotes/data
+* [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 * [Modlishka. Reverse Proxy. Phishing NG.](https://github.com/drk1wi/Modlishka)
 * [A toolset to make a system look as if it was the victim of an APT attack](https://github.com/NextronSystems/APTSimulator)
+* https://github.com/bit4woo/domain_hunter
+* https://github.com/mvelazc0/Oriana
+* [An informational repo about hunting for adversaries in your IT environment.](https://github.com/ThreatHuntingProject/ThreatHunting)
+* [The Hunting ELK](https://github.com/Cyb3rWard0g/HELK)
+* https://github.com/dafthack/MailSniper
+* https://github.com/threatexpress/domainhunter
+* https://github.com/A3sal0n/CyberThreatHunting
+* https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
+
+
 
 ### Scanner
 
@@ -227,21 +292,57 @@ Summary of online learning materials
 * [ Weak password blasting of weak ports and integrated detection tools for unauthorized access.](https://github.com/aedoo/Allscanner)
 * [DeepSearch - Advanced Web Dir Scanner](https://github.com/m4ll0k/DeepSearch)
 * [Nmap Web Dashboard and Reporting](https://github.com/Rev3rseSecurity/WebMap)
+* [Fast CORS misconfiguration vulnerabilities scanner](https://github.com/chenjj/CORScanner)
+* [Web App Monitor](https://github.com/knownsec/wam)
+* https://github.com/joaomatosf/jexboss
+* [Automated pentest framework for offensive security experts ](https://github.com/1N3/Sn1per)
+* https://github.com/ysrc/xunfeng
+
 
 ### Phisher
 
 * https://github.com/wifiphisher/wifiphisher
 * [Swordphish Phishing Awareness Tool](https://github.com/certsocietegenerale/swordphish-awareness)
+* [Ruby on Rails Phishing Framework ](https://github.com/pentestgeek/phishing-frenzy)
 
 ### RAT
 
 * [Android Remote Administration Tool](https://github.com/AhMyth/AhMyth-Android-RAT)
+* [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
+* https://github.com/sincoder/gh0st
+* [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
+* [iOS/macOS/Linux Remote Administration Tool](https://github.com/neoneggplant/EggShell)
+* https://github.com/secretsquirrel/the-backdoor-factory
+* [(Windows, Linux, OSX, Android) remote administration and post-exploitation tool ](https://github.com/n1nj4sec/pupy)
+* [Python Remote Administration Tool (RAT)](https://github.com/nathanlopez/Stitch)
+* https://github.com/jgamblin/Mirai-Source-Code
+
+### Wordlist 
+
+* https://github.com/jeanphorn/wordlist
+* https://github.com/We5ter/Scanners-Box
+* https://github.com/berzerk0/Probable-Wordlists
+
+### Proxy
+
+* https://github.com/realgam3/pymultitor
+* https://github.com/stamparm/fetch-some-proxies
+* https://github.com/fate0/proxylist
+* http://www.cnproxy.com/proxy1.html
+* https://www.cool-proxy.net/proxies/http_proxy_list/sort:score/direction:desc
+* https://free-proxy-list.net/
+* https://proxy-list.org/english/index.php
+* http://comp0.ru/downloads/proxylist.txt
+* http://www.proxylists.net/http_highanon.txt
+* http://www.proxylists.net/http.txt
+* http://ab57.ru/downloads/proxylist.txt
+* https://www.rmccurdy.com/scripts/proxy/good.txt
 
 ### Other
 
 * https://github.com/meirwah/awesome-incident-response
 * [A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications](https://github.com/python-security/pyt)
-* [](https://github.com/toolswatch/blackhat-arsenal-tools)
+* [Official Black Hat Arsenal Security Tools Repository](https://github.com/toolswatch/blackhat-arsenal-tools)
 * [List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 * [Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.](https://github.com/nullsecuritynet/tools)
 * [Open-Source Security Architecture](https://github.com/bloodzer0/ossa)
@@ -250,7 +351,17 @@ Summary of online learning materials
 * https://github.com/luyg24/IT_security
 * [Find open databases with Shodan](https://github.com/woj-ciech/LeakLooker)
 * https://github.com/Truneski/external_c2_framework
-
+* https://github.com/nshalabi/ATTACK-Tools
+* https://github.com/byt3bl33d3r/SprayingToolkit
+* https://github.com/threatexpress/malleable-c2
+* https://github.com/rsmudge/Malleable-C2-Profiles
+* [Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts. ](https://github.com/nullsecuritynet/tools)
+* https://github.com/EmpireProject/Empire
+* https://github.com/PowerShellMafia/PowerSploit
+* https://github.com/MobSF/Mobile-Security-Framework-MobSF
+* https://github.com/BugScanTeam/DNSLog
+* [An advanced memory forensics framework](https://github.com/volatilityfoundation/volatility)
+* https://github.com/beefproject/beef
 
 ## Vulnerability
 
@@ -260,6 +371,8 @@ Summary of online learning materials
 * https://www.vsecurity.com//download/publications/XMLDTDEntityAttacks.pdf
 * https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.md
 * https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing
+* https://github.com/BuffaloWill/oxml_xxe
+* https://github.com/enjoiz/XXEinjector
 
 ### SSRF
 
@@ -274,13 +387,25 @@ Summary of online learning materials
 * [SSRF bible. Cheatsheet](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit)
 * https://github.com/jayeshchauhan/SKANDA
 
+
 ### XSS
 
 * [ ws-na.amazon-adsystem.com(Amazon) 反射型 XSS 漏洞披露](https://medium.com/@newp_th/reflected-xss-on-ws-na-amazon-adsystem-com-amazon-f1e55f1d24c)
 * [ 浏览器 XSS Filter 绕过速查表 ](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
 * [CentOS Web Panel 0.9.8.763 存储型 XSS 漏洞披露（CVE-2019-7646](https://www.exploit-db.com/exploits/46349)
 * [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass)
+* https://github.com/s0md3v/XSStrike
+* https://github.com/evilcos/xssor2
 
+### Shooting
+
+* https://github.com/vulhub/vulhub
+* https://github.com/Medicean/VulApps
+* https://github.com/davevs/dvxte
+* https://github.com/MyKings/docker-vulnerability-environment
+* https://github.com/payatu/diva-android
+* https://github.com/snoopysecurity/dvws
+* https://github.com/s4n7h0/xvwa
 
 ### Buffer Overflow
 
@@ -293,3 +418,12 @@ Summary of online learning materials
 * [Command Injection Payload List](https://github.com/ismailtasdelen/command-injection-payload-list)
 * [NSE script based on Vulners.com API](https://github.com/vulnersCom/nmap-vulners)
 * [Named vulnerabilities and their practical impact](https://github.com/hannob/vulns)
+* https://github.com/Hacker0x01/hacker101
+* https://github.com/ctf-wiki/ctf-wiki
+* https://github.com/SecWiki/sec-chart
+* [各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map)
+* https://github.com/OWASP/Top10
+* https://github.com/SuperKieran/WooyunDrops
+* [1000个PHP代码审计案例(2016.7以前乌云公开漏洞)](https://github.com/Xyntax/1000php)
+* https://github.com/trustedsec/ptf
+* https://github.com/evilcos/papers
