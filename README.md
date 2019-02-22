@@ -79,7 +79,7 @@ Summary of online learning materials
 * [Penetration Testing / OSCP Biggest Reference Bank / Cheatsheet](https://github.com/OlivierLaflamme/Cheatsheet-God)
 * [Proof-of-concept codes created as part of security research done by Google Security Team.](https://github.com/google/security-research-pocs)
 * [Security Research from the Microsoft Security Response Center (MSRC)](https://github.com/Microsoft/MSRC-Security-Research)
-
+* [ Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.](https://github.com/trimstray/technical-whitepapers)
 
 ## Malware
 
@@ -87,6 +87,8 @@ Summary of online learning materials
 * [Analyzing the Windows LNK file attack method](https://dexters-lab.net/2019/02/16/analyzing-the-windows-lnk-file-attack-method/)
 * [委内瑞拉关于人道主义援助运动的伪造域名钓鱼活动分析](https://securelist.com/dns-manipulation-in-venezuela/89592/)
 * [对 Lazarus 下载者的简要分析](https://medium.com/emptyregisters/lazarus-downloader-brief-analy-17875f342d96)
+* [Various public documents, whitepapers and articles about APT campaigns](https://github.com/kbandla/APTnotes)
+* [Personal compilation of APT malware from whitepaper releases, documents and own research](https://github.com/sapphirex00/Threat-Hunting)
 
 ## Fuzzing
 
