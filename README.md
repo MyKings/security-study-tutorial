@@ -126,6 +126,8 @@ Summary of online learning materials
  
  * [An updated collection of resources targeting browser-exploitation.](https://github.com/m1ghtym0/browser-pwn)
  * [A collection of JavaScript engine CVEs with PoCs](https://github.com/tunz/js-vuln-db)
+ * [JavaScript engine fundamentals: the good, the bad, and the ugly](https://slidr.io/bmeurer/javascript-engine-fundamentals-the-good-the-bad-and-the-ugly#1) 
+ * [Bypassing Chrome’s CSP with Link Preloading](https://ioactive.com/bypassing-chromes-csp-with-link-preloading/)
  
 ## Deep Net
 
@@ -149,6 +151,7 @@ Summary of online learning materials
 * https://github.com/zodiacon/WindowsInternals
 * https://github.com/GDSSecurity/Windows-Exploit-Suggester
 * https://github.com/EasyHook/EasyHook
+* [Bypass Windows Exploit Guard ASR （PPT）](https://github.com/sevagas/WindowsDefender_ASR_Bypass-OffensiveCon2019)
 
 ## Blockchain
 
@@ -396,6 +399,8 @@ Summary of online learning materials
 * [Browser's XSS Filter Bypass Cheat Sheet](https://github.com/masatokinugawa/filterbypass)
 * https://github.com/s0md3v/XSStrike
 * https://github.com/evilcos/xssor2
+* [Microsoft Office 365 Outlook 的两个 XSS 漏洞披露](https://leucosite.com/Microsoft-Office-365-Outlook-XSS/)
+* [漏洞赏金私人项目中的 XSS 及 RCE 漏洞实例](https://zetc0de.github.io/bugbounty/2019/02/14/RCE-and-XSS-on-Private-Program-Cyber-Army.html)
 
 ### Shooting
 
