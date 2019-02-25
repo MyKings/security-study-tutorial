@@ -106,6 +106,9 @@ Summary of online learning materials
 * [Malware Capture Facility Project](https://www.stratosphereips.org/datasets-malware)
 * https://github.com/rootm0s/Injectors
 * https://github.com/rshipp/awesome-malware-analysis
+* [对 Chrome 恶意扩展应用的研究](https://posts.specterops.io/no-place-like-chrome-122e500e421f)
+* [ 分析 Gootkit 银行木马]( http://www.certego.net/en/news/malware-tales-gootkit/)
+* [ 二进制分析研究会议 BAR 2019 资源发布]( https://ruoyuwang.me/bar2019/)
 
 ## Fuzzing
 
@@ -128,6 +131,7 @@ Summary of online learning materials
  * [A collection of JavaScript engine CVEs with PoCs](https://github.com/tunz/js-vuln-db)
  * [JavaScript engine fundamentals: the good, the bad, and the ugly](https://slidr.io/bmeurer/javascript-engine-fundamentals-the-good-the-bad-and-the-ugly#1) 
  * [Bypassing Chrome’s CSP with Link Preloading](https://ioactive.com/bypassing-chromes-csp-with-link-preloading/)
+ * [Triaging the exploitability of IE/EDGE crashes](https://movaxbx.ru/2019/02/20/triaging-the-exploitability-of-ie-edge-crashes/)
  
 ## Deep Net
 
@@ -152,6 +156,7 @@ Summary of online learning materials
 * https://github.com/GDSSecurity/Windows-Exploit-Suggester
 * https://github.com/EasyHook/EasyHook
 * [Bypass Windows Exploit Guard ASR （PPT）](https://github.com/sevagas/WindowsDefender_ASR_Bypass-OffensiveCon2019)
+* [Windows 中一些启动相关的注册表项介绍](http://www.hexacorn.com/blog/2019/02/23/beyond-good-ol-run-key-part-104/)
 
 ## Blockchain
 
@@ -389,6 +394,7 @@ Summary of online learning materials
 * http://ceye.io/
 * [SSRF bible. Cheatsheet](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit)
 * https://github.com/jayeshchauhan/SKANDA
+* [从 SSRF 到最终获取 AWS S3 Bucket 访问权限的实际案例](https://medium.com/@logicbomb_1/chain-of-hacks-leading-to-database-compromise-b2bc2b883915)
 
 
 ### XSS
@@ -401,6 +407,8 @@ Summary of online learning materials
 * https://github.com/evilcos/xssor2
 * [Microsoft Office 365 Outlook 的两个 XSS 漏洞披露](https://leucosite.com/Microsoft-Office-365-Outlook-XSS/)
 * [漏洞赏金私人项目中的 XSS 及 RCE 漏洞实例](https://zetc0de.github.io/bugbounty/2019/02/14/RCE-and-XSS-on-Private-Program-Cyber-Army.html)
+* [Video Downloader and Video Downloader Plus Chrome Extension Hijack Exploit - UXSS via CSP Bypass (~15.5 Million Affected)](https://thehackerblog.com/video-download-uxss-exploit-detailed/)
+* [Gitlab Markdown 存储型 XSS 漏洞详情披露：]( https://gitlab.com/gitlab-org/gitlab-ce/issues/54427)
 
 ### Shooting
 
