@@ -51,6 +51,7 @@ Summary of online learning materials
 * https://github.com/bayandin/awesome-awesomeness
 * [常用服务器、数据库、中间件安全配置基线](https://github.com/re4lity/Benchmarks)
 * https://github.com/EbookFoundation/free-programming-books
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 
 ## Pentest
