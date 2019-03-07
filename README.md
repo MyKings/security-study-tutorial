@@ -95,6 +95,7 @@ Summary of online learning materials
 * [The Shadow Brokers "Lost In Translation" leak](https://github.com/misterch0c/shadowbroker)
 * [Decrypted content of eqgrp-auction-file.tar.xz](https://github.com/x0rz/EQGRP)
 * https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
+* [The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.](https://github.com/RhinoSecurityLabs/pacu)
 
 ## Malware
 
