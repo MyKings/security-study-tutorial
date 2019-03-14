@@ -52,6 +52,7 @@ Summary of online learning materials
 * [常用服务器、数据库、中间件安全配置基线](https://github.com/re4lity/Benchmarks)
 * https://github.com/EbookFoundation/free-programming-books
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+* https://github.com/yosriady/api-development-tools
 
 
 ## Pentest
@@ -96,6 +97,7 @@ Summary of online learning materials
 * [Decrypted content of eqgrp-auction-file.tar.xz](https://github.com/x0rz/EQGRP)
 * https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
 * [The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.](https://github.com/RhinoSecurityLabs/pacu)
+* https://github.com/Ridter/Intranet_Penetration_Tips
 
 ## Malware
 
