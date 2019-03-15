@@ -224,6 +224,13 @@ Summary of online learning materials
 * https://github.com/Moham3dRiahi/Th3inspector
 * https://github.com/jivoi/awesome-osint
 
+### Wordlist
+
+* https://github.com/RicterZ/genpAss
+* https://github.com/lavalamp-/password-lists
+* https://github.com/LandGrey/pydictor
+* https://github.com/bit4woo/passmaker
+* https://github.com/brannondorsey/PassGAN
 
 ### Git
 
@@ -316,6 +323,8 @@ Summary of online learning materials
 * https://github.com/wifiphisher/wifiphisher
 * [Swordphish Phishing Awareness Tool](https://github.com/certsocietegenerale/swordphish-awareness)
 * [Ruby on Rails Phishing Framework ](https://github.com/pentestgeek/phishing-frenzy)
+* https://github.com/ryhanson/phishery
+* https://github.com/vishnudxb/docker-blackeye
 
 ### RAT
 
