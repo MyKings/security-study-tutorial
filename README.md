@@ -113,6 +113,8 @@ Summary of online learning materials
 * [对 Chrome 恶意扩展应用的研究](https://posts.specterops.io/no-place-like-chrome-122e500e421f)
 * [ 分析 Gootkit 银行木马]( http://www.certego.net/en/news/malware-tales-gootkit/)
 * [ 二进制分析研究会议 BAR 2019 资源发布]( https://ruoyuwang.me/bar2019/)
+* [GLOBAL ATM MALWARE WALL](http://atm.cybercrime-tracker.net/index.php)
+* [Feed RSS with the latest samples:](http://atm.cybercrime-tracker.net/wget.php)
 
 ## Fuzzing
 
