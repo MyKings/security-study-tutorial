@@ -142,7 +142,7 @@ Summary of online learning materials
 ## Deep Net
 
 * [All You Need to Know About Deep Learning - A kick-starter](https://github.com/machinelearningmindset/deep-learning-ocean)
-* [OnionScan is a free and open source tool for investigating the Dark Web.]https://github.com/s-rah/onionscan
+* [OnionScan is a free and open source tool for investigating the Dark Web.](https://github.com/s-rah/onionscan)
 
 ## Operating System
 
