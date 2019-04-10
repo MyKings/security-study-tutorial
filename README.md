@@ -99,6 +99,10 @@ Summary of online learning materials
 * [The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.](https://github.com/RhinoSecurityLabs/pacu)
 * https://github.com/Ridter/Intranet_Penetration_Tips
 
+## Mobile Application Security
+
+* https://gbhackers.com/mobile-application-penetration-testing/
+
 ## Malware
 
 * [Bypass EDR’s memory protection, introduction to hooking](https://movaxbx.ru/2019/02/19/bypass-edrs-memory-protection-introduction-to-hooking/)
