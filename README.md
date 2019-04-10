@@ -119,6 +119,7 @@ Summary of online learning materials
 * [ 二进制分析研究会议 BAR 2019 资源发布]( https://ruoyuwang.me/bar2019/)
 * [GLOBAL ATM MALWARE WALL](http://atm.cybercrime-tracker.net/index.php)
 * [Feed RSS with the latest samples:](http://atm.cybercrime-tracker.net/wget.php)
+* https://maskop9.tech/index.php/2019/01/30/analysis-of-netwiredrc-trojan/
 
 ## Fuzzing
 
