@@ -103,6 +103,7 @@ Summary of online learning materials
 ## Mobile Application Security
 
 * https://gbhackers.com/mobile-application-penetration-testing/
+* [安卓内核提权漏洞分析](https://github.com/tangsilian/android-vuln)
 
 ## Malware
 
