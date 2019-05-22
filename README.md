@@ -137,6 +137,7 @@ Summary of online learning materials
 * https://github.com/bin2415/fuzzing_paper
 * [Potentially dangerous files](https://github.com/Bo0oM/fuzz.txt)
 * [Fuzzing Browsers](https://github.com/RootUp/BFuzz)
+* [This module provides a Python wrapper for interacting with fuzzers, such as AFL](https://github.com/angr/phuzzer)
 
 ## Browser
  
