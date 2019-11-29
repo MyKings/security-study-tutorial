@@ -99,6 +99,8 @@ Summary of online learning materials
 * https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
 * [The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.](https://github.com/RhinoSecurityLabs/pacu)
 * https://github.com/Ridter/Intranet_Penetration_Tips
+* [渗透测试、红队攻击、网络安全资源大集合](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
+* [Awesome Cybersecurity Blue Team - 蓝队防御相关的工具、文章资料收集](https://github.com/meitar/awesome-cybersecurity-blueteam)
 
 ## Mobile Application Security
 
@@ -122,6 +124,16 @@ Summary of online learning materials
 * [GLOBAL ATM MALWARE WALL](http://atm.cybercrime-tracker.net/index.php)
 * [Feed RSS with the latest samples:](http://atm.cybercrime-tracker.net/wget.php)
 * https://maskop9.tech/index.php/2019/01/30/analysis-of-netwiredrc-trojan/
+* [Slackor - Go 语言写的一个 C&C 服务器，基于 Slack](https://github.com/Coalfire-Research/Slackor)
+* [卡巴斯基对影响全球多个地区的 Riltok 手机银行木马的分析](https://securelist.com/mobile-banker-riltok/91374/)
+* [Metamorfo 银行木马利用 Avast 反病毒软件的可执行文件隐藏自己](https://blog.ensilo.com/metamorfo-avast-abuser)
+* [列举了近些年知名的 APT 组织名单](https://www.freebuf.com/articles/network/208449.html)
+* [腾讯安全御见发布《APT 2019年上半年研究报告》](https://s.tencent.com/research/report/762.html)
+* [LNK 快捷方式文件在恶意代码攻击方面的应用](https://bitofhex.com/2019/07/15/deriving-intelligence-from-lnk-files)
+* [针对以色列某未知 APT 恶意样本的分析报告](https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/Israel/APT/Unknown/26-08-19/Malware%20analysis%2026-08-19.md)
+* [此文作者分析恶意软件Malware过程系列](https://poxyran.github.io/poxyblog/src/pages/22-10-2019-unpacking-malware-series-maze-ransomware.html)
+* [NSA 发了一份对俄罗斯 Turla APT 组织的分析文档(https://media.defense.gov/2019/Oct/18/2002197242/-1/-1/0/NSA_CSA_TURLA_20191021%20VER%203%20-%20COPY.PDF)
+
 
 ## Fuzzing
 
@@ -138,6 +150,45 @@ Summary of online learning materials
 * [Potentially dangerous files](https://github.com/Bo0oM/fuzz.txt)
 * [Fuzzing Browsers](https://github.com/RootUp/BFuzz)
 * [This module provides a Python wrapper for interacting with fuzzers, such as AFL](https://github.com/angr/phuzzer)
+* [从零开始用honggfuzz fuzz VLC的全过程分享](https://www.pentestpartners.com/security-blog/double-free-rce-in-vlc-a-honggfuzz-how-to/)
+* [Fuzzing] [PDF] https://www.dimva2019.org/wp-content/uploads/sites/31/2019/06/190620-DIMVA-keynote-FP.pdf: 
+* [RetroWrite: 让闭源binary支持AFL和ASAN的Binary rewriting 工具](https://github.com/HexHive/retrowrite/blob/master/docker)
+* [MOPT：对fuzzer变异策略的选择分布进行优化的工作，paper发表在Usenix Security‘19](https://nesa.zju.edu.cn/download/MOPT_Optimize%20Mutation%20Scheduling%20for%20Fuzzers.pdf)
+* [用AFL-Unicorn来fuzz内核，集合了afl的覆盖率和unicorn的局部模拟执行](https://github.com/fgsect/unicorefuzz)
+* [JANUS：将AFL和Syzkaller结合在一起fuzz文件系统的工作](https://r3xnation.wordpress.com/2019/07/06/fuzzing-file-systems-via-two-dimensional-input-space-exploration-summary/)
+* [Mozilla的浏览器fuzz框架，类似于Google的clusterfuzz](https://blog.mozilla.org/security/2019/07/10/grizzly/)
+* [利用 AFL Fuzz statzone DNS Zone Parsers](https://www.cambus.net/fuzzing-dns-zone-parsers/)
+* [基于AFL对Linux内核模糊测试的过程详述](https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/)
+* [作者发现CVE-2019-13504, CVE-2019-13503的过程，同时强调了在软件开发周期集成libFuzzer对API进行fuzz的重要性](https://fuzzit.dev/2019/07/11/discovering-cve-2019-13504-cve-2019-13503-and-the-importance-of-api-fuzzing/)
+* [FUDGE:一个自动化生成Fuzz Driver的工作，核心思路是通过分析lib在软件中的正常调用情况来生成Fuzz Driver，部分Fuzz Driver已经加入到OSS-Fuzz项目中](https://ai.google/research/pubs/pub48314)
+* [Adobe Font Development Kit for OpenType 套件相关的漏洞分析](https://github.com/xinali/AfdkoFuzz/)
+* [复旦白泽战队对《Dowsing for Overflows: A Guided Fuzzer to Find Buffer Boundary Violations》 Paper 的解读](https://zhuanlan.zhihu.com/p/74947208)
+* [Linux 内核 Fuzz 的入门教程](https://buff.ly/2LKEIpO)
+* [现有USB Fuzzing技术的总结 ](https://davejingtian.org/2019/07/17/usb-fuzzing-a-usb-perspective/)
+* [从源码层面对 Google honggfuzz Fuzz 原理的分析](https://www.anquanke.com/post/id/181936)
+* [lain - 微软这两天开源了一个 Rust 语言写的 Fuzz 框架](https://github.com/microsoft/lain)
+* [Fuzz闭源PDF阅读器时如何判断文件渲染结束以便关闭软件以及如何精简种子文件的一些方法](https://hubs.ly/H0k0Rt60)
+* [之前推过AFL-Unicorn项目可以让AFL fuzz能用Unicorn模拟的闭源binary，这个uniFuzzer项目很类似，是要把libfuzzer应用在闭源binary上](https://github.com/rk700/uniFuzzer/)
+* [用AFL Fuzz OP-TEE的系统调用 ](https://github.com/Riscure/optee_fuzzer)
+* [平安科技银河安全实验室基于Unicorn和LibFuzzer实现了一个针对闭源可执行文件的fuzzer。借助Unicorn在x86架构上模拟执行arm指令，并通过Unicorn能hook基本块的功能获取代码覆盖率，从而反馈给libfuzzer实现对目标函数的fuzz。优势在于可以借助Unicorn在x86架构上fuzz闭源的可执行文件。缺点在于要针对目标架构和系统进行各种外部库、系统调用的适配，因此不太适合大型的目标。根据文章看来，其思路也是针对iot设备上的可执行文件进行fuzz。文章最后还开源概念验证代码。](https://galaxylab.com.cn/%e5%9f%ba%e4%ba%8eunicorn%e5%92%8clibfuzzer%e7%9a%84%e6%a8%a1%e6%8b%9f%e6%89%a7%e8%a1%8cfuzzing/)
+* [nccgroup团队基于Sulley构造的一个对网络协议进行模糊测试的工具。](https://github.com/nccgroup/fuzzowski)
+* [使用苹果自带的LLDB Script fuzz macOS系统内核 – R3dF09](https://i.blackhat.com/USA-19/Thursday/us-19-Lilang-Debug-For-Bug-Crack-And-Hack-Apple-Core-By-Itself-Fun-And-Profit-To-Debug-And-Fuzz-Apple-Kernel-By-LLDB-Script.pdf)
+* [波鸿鲁尔大学关于如何在二进制程序中对抗 Fuzz 自动化发现漏洞的研究](https://github.com/RUB-SysSec/antifuzz)
+* [Fortinet 如何利用 Fuzz 的方法发现 Office Embedded Open Type (EOT) 的漏洞 ](https://www.fortinet.com/blog/threat-research/a-14-day-journey-through-embedded-open-type-font-fuzzing.html)
+* [湾区一个关于Fuzzing的workshop的分享内容，三个议题涵盖了c/c++，web应用等不同目标的Fuzzing技巧 ](https://github.com/MotherFuzzers/meetups/blob/master/README.md)
+* [用WinAFL Fuzz Windows Binary的实践分享，新颖之处是作者利用了内存访问的热图来精简输入种子大小 ](https://sec-consult.com/en/blog/2017/09/hack-the-hacker-fuzzing-mimikatz-on-windows-with-winafl-heatmaps-0day/)
+* [Google 建了一个 Fuzzing Repo，用来放 Fuzzing 相关的文档、教程等资源 ](https://github.com/google/fuzzing)
+* [lokihardt 在 jsc 编译器中 fuzz 出来的新漏洞](https://bugs.chromium.org/p/project-zero/issues/detail?id=1876)
+* [伦敦帝国学院研究团队通过 Fuzzing 方式对编译器 Bug 的研究报告](https://srg.doc.ic.ac.uk/projects/compiler-bugs)
+* [针对 Java 语言的基于覆盖率的 Fuzz 框架 ](https://github.com/rohanpadhye/jqf)
+* [Fragscapy - 通过协议 Fuzz 的方法探测 IDS/防火墙检测规则的漏洞](https://blog.amossys.fr/fragscapy-fuzzing-protocols-to-evade-firewalls.html)
+* [gramfuzz - 通过定义语法规则生成 Fuzz 测试样本数据的工具](https://github.com/d0c-s4vage/gramfuzz)
+* [Fuzz中一个常见问题是Checksum或者Magic Value，以前的方法大多是通过符号执行的方法去求解约束，但这样的方法比较复杂。Red­queen这篇文章提出了一种更为简单的思路，即基于VMI来获取比较指令或者函数调用指令的参数，用这个参数来指导变异。具体实现依赖Intel PT。](https://github.com/RUB-SysSec/redqueen)
+* [Jsfuzz: coverage-guided fuzz testing for Javascript ](https://github.com/fuzzitdev/jsfuzz)
+* [Dhiraj Mishra 在 PHDays9 会议 AFL Fuzz Workshop 的 PPT](https://github.com/RootUp/PHDays9)
+* [Fuzz 方向的几篇 Paper 的解读 ](https://github.com/bsauce/Some-Papers-About-Fuzzing)
+* [基于 Frida 实现的 In-Memory Android API Fuzzer](https://github.com/andreafioraldi/frida-qbdi-fuzzer)
+
 
 ## Browser
  
@@ -146,7 +197,10 @@ Summary of online learning materials
  * [JavaScript engine fundamentals: the good, the bad, and the ugly](https://slidr.io/bmeurer/javascript-engine-fundamentals-the-good-the-bad-and-the-ugly#1) 
  * [Bypassing Chrome’s CSP with Link Preloading](https://ioactive.com/bypassing-chromes-csp-with-link-preloading/)
  * [Triaging the exploitability of IE/EDGE crashes](https://movaxbx.ru/2019/02/20/triaging-the-exploitability-of-ie-edge-crashes/)
- 
+ * [Firefox 发布 68 版本，修复 21 个漏洞](https://www.mozilla.org/en-US/security/advisories/mfsa2019-21/#CVE-2019-9811)
+* [Chrome 更新 76.0.3809.87 版本，修复 43 个安全漏洞](https://chromereleases.googleblog.com/2019/07/stable-channel-update-for-desktop_30.html)
+* [一个 Edge UXSS 漏洞分析](https://leucosite.com/Microsoft-Edge-uXSS/?q)
+
 ## Deep Net
 
 * [All You Need to Know About Deep Learning - A kick-starter](https://github.com/machinelearningmindset/deep-learning-ocean)
@@ -181,6 +235,30 @@ Summary of online learning materials
 * https://github.com/1522402210/BlockChain-Security-List
 * https://github.com/liuchengxu/blockchain-tutorial
 * https://github.com/dvf/blockchain
+
+## Security conference
+
+* [2019 Pass the SALT 会议的大部分议题 PPT 公开了](https://2019.pass-the-salt.org/schedule/)
+* [RuhrSec 2019 会议的视频公开了](https://www.ruhrsec.de/2019/videos.html)
+* [学术届 ACM ASIACCS 2019 会议的议题 PPT 都公开了](https://asiaccs2019.github.io/program.html)
+* [即将举办的 Black Hat USA 2019 大会值得关注的七大热点网络安全趋势](https://www.freebuf.com/news/207907.html)
+* [lack Hat USA 2019 会议上，微软宣布对于可以成功利用的 Azure 平台的 Exploit，微软最多可以奖励 30 万美金](https://threatpost.com/microsoft-lab-300k-working-azure-exploits/146938/)
+* [Nicolas Joly 在 BlackHat USA 2019 对 Outlook/Exchange 漏洞及利用的总结](https://i.blackhat.com/USA-19/Wednesday/us-19-Joly-Hunting-For-Bugs-Catching-Dragons.pdf)
+* [研究员 Maor Shwartz 在 BlackHat USA 2019 会议上对 0Day 市场买卖交易双方的介绍](http://i.blackhat.com/USA-19/Wednesday/us-19-Shwartz-Selling-0-Days-To-Governments-And-Offensive-Security-Companies.pdf)
+* [5G 通信网络的新漏洞，来自 BlackHat USA 2019](https://i.blackhat.com/USA-19/Wednesday/us-19-Shaik-New-Vulnerabilities-In-5G-Networks-wp.pdf)
+* [腾讯安全Blade Team在blackhat usa 2019 上关于利用WiFi漏洞RCE的细节公开了。 – freener0](https://i.blackhat.com/USA-19/Thursday/us-19-Pi-Exploiting-Qualcomm-WLAN-And-Modem-Over-The-Air-wp.pdf)
+* [来自 DEF CON 27 会议上针对 MikroTik RouterOS 系统的漏洞利用研究](https://medium.com/tenable-techblog/routeros-post-exploitation-784c08044790)
+* [BSides Canberra 2019 会议议题 “iOS 越狱需要什么？Hacking the iPhone: 2014 - 2019” 的视频](https://www.youtube.com/watch?v=31azOpD7DmI)
+* [来自 Kcon 2019 360 安全研究员的议题《如何去挖掘物联网环境中的高级恶意软件威胁》 ](https://drive.google.com/open?id=1H_NX2L3KebS9-f1oPS8IbVg9CfWuOj4U)
+* [KCon 2019 安全会议的议题 PPT 可以下载了](https://paper.seebug.org/1023/)
+* [HITB GSEC 2019 会议议题的 PPT 都公开了](https://gsec.hitb.org/materials/sg2019/)
+* [DerbyCon 会议 NCC Group 研究员关于 COM Hijacking 的议题](https://www.slideshare.net/DavidTulis1/com-hijacking-techniques-derbycon-2019)
+* [R2CON 2019 会议的议题 PPT 公开了](https://github.com/radareorg/r2con2019)
+* [Derbycon 2019 会议的视频上线了](http://bit.ly/302eUZM)
+* [Black Hat Europe 2019 会议议题列表（部分）公开了](http://ow.ly/cRPK30pyRHC)
+* [OSDFCon19 会议关于 Linux 操作系统取证分析的议题 PPT](https://github.com/ashemery/LinuxForensics)
+
+
 
 ## Tools
 
@@ -269,6 +347,13 @@ Summary of online learning materials
 * https://github.com/advanced-threat-research/firmware-security-training
 * [Exploitation Framework for Embedded Devices](https://github.com/threat9/routersploit)
 * [Printer Exploitation Toolkit ](https://github.com/RUB-NDS/PRET)
+* [作者分析了一款IoT路由的安全性，从web到硬件进行了全面的漏洞挖掘和分析，值得一看](https://www.pentestpartners.com/security-blog/ewon-flexy-iot-router-a-deep-dive/)
+* [针对Arlo相机设备功能及安全性的一次深入分析](https://medium.com/tenable-techblog/an-analysis-of-arlo-6f1b691236b5)
+* [研究人员在 Orvibo 智能家居产品的开放数据库中发现了用户的用户名、密码、精确位置等隐私数据](https://www.vpnmentor.com/blog/report-orvibo-leak/)
+* [嵌入式与 IoT 安全方向的资料](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+* [Cyber-ITL 对来自 22 个厂商的近 5000 个版本的 IoT 固件的分析报告](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
+* [入门教程-如何探索网络摄像的漏洞（固件）](https://medium.com/@knownsec404team/getting-started-tutorial-how-to-explore-the-camera-vulnerability-firmware-c405e25ed177)
+
 
 ### Traffic
 
@@ -432,6 +517,7 @@ Summary of online learning materials
 * [漏洞赏金私人项目中的 XSS 及 RCE 漏洞实例](https://zetc0de.github.io/bugbounty/2019/02/14/RCE-and-XSS-on-Private-Program-Cyber-Army.html)
 * [Video Downloader and Video Downloader Plus Chrome Extension Hijack Exploit - UXSS via CSP Bypass (~15.5 Million Affected)](https://thehackerblog.com/video-download-uxss-exploit-detailed/)
 * [Gitlab Markdown 存储型 XSS 漏洞详情披露：]( https://gitlab.com/gitlab-org/gitlab-ce/issues/54427)
+* [实用的DOM XSS入门手册](https://public-firing-range.appspot.com/urldom/index.html)
 
 ### Shooting
 
